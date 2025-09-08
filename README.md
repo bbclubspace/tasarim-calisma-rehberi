@@ -29,7 +29,7 @@ Farklı teknolojiler ve yazılım dilleri denemek isterseniz, bizim projelerimiz
 
 # 3-Proje Fikri Bulabileceğiniz Yerler
 
-Proje fikri bulmak için hocaların akademik çalışmalarına bakabilirsiniz. Bunun için, danışman olarak dersi veren hocaların çalışmalarına veya bu alanda akademik çalışma yapmış diğer hocaların profillerine göz atabilirsiniz: [Hocaların Çalışmaları](./docs/danisman_hocalar.md)
+Proje fikri bulmak için hocaların akademik çalışmalarına bakabilirsiniz. Bunun için, danışman olarak dersi veren hocaların çalışmalarına veya bu alanda akademik çalışma yapmış diğer hocaların profillerine göz atabilirsiniz: [Hocaların Çalışmaları](docs/danışman_hocalar.md)
 
 Diğer kaynaklar:  
 - **TÜBİTAK proje veritabanı** (Fen alanı filtreleyerek veya arama ile proje fikirlerini inceleyebilirsiniz): [TÜBİTAK Veri Tabanı](https://search.trdizin.gov.tr/tr/yayin/ara?q=&order=publicationYear-DESC&page=1&limit=20&facet-documentType=PROJECT)  
@@ -43,4 +43,4 @@ Diğer kaynaklar:
 
 - **Okulun rapor dokümanları**: [BŞEU Doküman](https://bilecik.edu.tr/bilgisayar/Icerik/Bitirme_Tasarim_calismasi)  
 - **Rapor yazımı için Overleaf sitesi**: [Overleaf](https://www.overleaf.com/login)  
-- **Örnek LaTeX kodları**: [LaTeX Örnekleri](./Latex)
+- **Örnek LaTeX kodları**: [LaTeX Örnekleri](Latex)
