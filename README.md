@@ -23,7 +23,7 @@ Bu süreçte yalnızca teknik becerilerin değil, aynı zamanda araştırma ve y
 
 # 2-Kullanılabilecek Teknolojiler
 
-Farklı teknolojiler ve yazılım dilleri denemek isterseniz, bizim projelerimizde daha önce kullandığımız yazılım dillerinden ve teknolojilerden oluşan listeye bakabilirsiniz: [Kullanılabilecek Teknolojiler](./docs/kullanilabilecek_teknolojiler.md)
+Farklı teknolojiler ve yazılım dilleri denemek isterseniz, bizim projelerimizde daha önce kullandığımız yazılım dillerinden ve teknolojilerden oluşan listeye bakabilirsiniz: [Kullanılabilecek Teknolojiler](docs/kullanılabilecek_teknolojiler.md)
 
 ---
 
