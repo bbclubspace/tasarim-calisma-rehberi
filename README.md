@@ -43,4 +43,5 @@ Diğer kaynaklar:
 
 - **Okulun rapor dokümanları**: [BŞEU Doküman](https://bilecik.edu.tr/bilgisayar/Icerik/Bitirme_Tasarim_calismasi)  
 - **Rapor yazımı için Overleaf sitesi**: [Overleaf](https://www.overleaf.com/login)  
-- **Örnek LaTeX kodları**: [LaTeX Örnekleri](Latex)
+- **Örnek LaTeX kodları**: [LaTeX Örnekleri](Latex) 
+  > Bu örnek kodları kullanabilmek için ilgili **ZIP dosyalarını indirip Overleaf’e yüklemeniz** gerekmektedir. Böylece projeyi kendi hesabınızda çalıştırabilir ve düzenleyebilirsiniz.
