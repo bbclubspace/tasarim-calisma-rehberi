@@ -1,3 +1,4 @@
+[Kullanılabilecek Teknolojiler](./docs/teknolojiler.md)
 # 📘 Dersi Veren Hocalar ve Çalışma Alanları
 
 ### **Prof. Dr. Cihan KARAKUZU**  
